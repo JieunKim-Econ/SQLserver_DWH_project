@@ -33,7 +33,7 @@ This project involves:
 
 ---
 
-## 🛠️ Important Links & Tools:
+## 🛠️ Links & Tools:
 
 - **[Datasets](datasets/):** Access to the project dataset (csv files).
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
